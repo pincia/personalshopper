@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Issue - 16 were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/personalshopper
+Data file = not defined!
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+
+
+---pt-ocdi/after_import---
+

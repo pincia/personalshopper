@@ -1,0 +1,312 @@
+
+---Downloaded files---
+The import files for: Issue - 16 were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/personalshopper
+Data file = C:\laragon\www\personalshopper/wp-content/uploads/2020/04/demo-content-import-file_2020-04-02__09-18-42.xml
+Widget file = C:\laragon\www\personalshopper/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-02__09-18-42.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Shop Sidebar : 
+
+Categorie prodotto - Product categories - Imported
+Filtra prodotti per attributo - Filter by - Imported
+Filtra prodotti per prezzo - Filter by price - Imported
+Filtra prodotti per attributo - Filter by - Imported
+
+Article Sidebar : 
+
+The Issue - Posts - Popular Posts - Imported
+The Issue - Sticky Separator - No Title - Imported
+Immagine - No Title - Imported
+
+Article Ajax Sidebar : 
+
+The Issue - Social Links - No Title - Imported
+Immagine - No Title - Imported
+The Issue - Sticky Separator - No Title - Imported
+Immagine - No Title - Imported
+
+Author Sidebar : 
+
+The Issue - Instagram - The Issue on Instagram - Imported
+The Issue - Sticky Separator - No Title - Imported
+Immagine - No Title - Imported
+
+Archive Sidebar : 
+
+The Issue - Instagram - No Title - Imported
+The Issue - Sticky Separator - No Title - Imported
+Immagine - No Title - Imported
+
+Category Sidebar : 
+
+The Issue - Sticky Separator - No Title - Imported
+The Issue - Posts - FEATURED POSTS - Imported
+
+Tag Sidebar : 
+
+The Issue - Authors - No Title - Imported
+
+Search Sidebar : 
+
+Tag Cloud - Tags - Imported
+
+Page Sidebar : 
+
+The Issue - Instagram - No Title - Imported
+The Issue - Sticky Separator - No Title - Imported
+Immagine - No Title - Imported
+
+Mobile Menu Sidebar : 
+
+The Issue - Subscribe - Subscribe now to get notified about exclusive offers from The Issue every week! - Imported
+
+custom_widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+The Issue - About Me - About Me - Imported to Inactive
+The Issue - Authors - Authors - Imported to Inactive
+The Issue - Posts - Featured Posts - Imported to Inactive
+The Issue - Posts - Popular Posts - Imported to Inactive
+The Issue - Posts - Most Discussed - Imported to Inactive
+The Issue - Instagram - Instagram - Imported to Inactive
+The Issue - Instagram - Instagram - Imported to Inactive
+The Issue - Top Reviews - Top Reviews - Imported to Inactive
+The Issue - Top Categories - Top Categories - Imported to Inactive
+The Issue - Twitter - Twitter - Imported to Inactive
+The Issue - Video Posts - Videos - Imported to Inactive
+The Issue - Social Links - Vertical Black - Imported to Inactive
+The Issue - Social Links - Vertical Color - Imported to Inactive
+The Issue - Social Links - Vertical Black with Border - Imported to Inactive
+The Issue - Social Links - Vertical Color with Border - Imported to Inactive
+The Issue - Social Links - Color Background - Imported to Inactive
+The Issue - Social Links - Black within Circle - Imported to Inactive
+The Issue - Social Links - Color within Circle - Imported to Inactive
+The Issue - Social Links - Icons within Circle Color - Imported to Inactive
+The Issue - Social Links - Horizontal Black - Imported to Inactive
+The Issue - Social Links - Horizontal Color - Imported to Inactive
+The Issue - Social Links - Horizontal Black with Border - Imported to Inactive
+The Issue - Social Links - Horizontal Color with Border - Imported to Inactive
+The Issue - Social Links - Horizontal Color Background - Imported to Inactive
+The Issue - Social Links - Icons Black within Circle - Imported to Inactive
+The Issue - Social Links - Icons Color within Circle - Imported to Inactive
+The Issue - Social Links - Icons within Circle Color - Imported to Inactive
+
+home_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+The Issue - About Me - About Me - Imported to Inactive
+The Issue - Social Links - Subscribe &amp; Follow - Imported to Inactive
+The Issue - Instagram - Instagram - Imported to Inactive
+The Issue - Posts - Popular Posts - Imported to Inactive
+The Issue - Sticky Separator - No Title - Imported to Inactive
+The Issue - Twitter - No Title - Imported to Inactive
+
+
+
+---pt-ocdi/after_import---
+

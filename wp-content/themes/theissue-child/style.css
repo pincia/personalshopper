@@ -1,0 +1,50 @@
+/*
+	Theme Name: The Issue Child Theme
+	Theme URI: http://themeforest.net/user/fuelthemes
+	Description: <strong>A Premium theme for magazine, editor, community and more! WordPress Theme by <a href="http://www.themeforest.net/user/fuelthemes">fuelthemes</a></strong> – Update notifications available on Twitter and Themeforest <a href="http://twitter.com/anteksiler">Follow us on twitter</a> – <a href="http://themeforest.net/user/fuelthemes">Follow us on Themeforest</a>
+	Version: 1.0.0
+	Author: fuelthemes
+	Template: theissue
+	Text Domain: theissue
+	Domain Path: /inc/languages
+*/
+
+/* Non-VC Page */
+@media screen and (max-width: 640px){
+.non-VC-page {
+	
+	padding: 20px 0;
+	
+}
+}
+
+@media screen and (min-width: 640px){
+.non-VC-page {
+	
+	padding: 40px 0;
+	
+}
+}
+
+
+.wpcf7 {width:100% !important;}
+.wpcf7-form label{
+	
+	width:100% !important;
+
+}
+.wpcf7-form {width:100% !important;}
+
+.acceptance-296{
+	display:inline!important;
+}
+
+.acceptance-296 .wpcf7-list-item{
+	margin: 0px 0px 0px 0px !important;
+}
+.submitwrapper input{
+    width: 160px;
+	display: block;
+	margin: 0 auto;
+
+}

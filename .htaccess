@@ -1,0 +1,7 @@
+
+# BEGIN WordPress
+# Le direttive (linee) tra `BEGIN WordPress` e `END WordPress` sono
+# generate dinamicamente, e dovrebbero essere modificare solo con i filtri di WordPress.
+# Ogni modifica alle direttive tra questi marcatori sarà sovrascritta.
+
+# END WordPress

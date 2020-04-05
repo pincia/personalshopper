@@ -1,0 +1,114 @@
+
+---Downloaded files---
+The import files for: Issue - 16 were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost/personalshopper
+Data file = not defined!
+Widget file = C:\laragon\www\personalshopper/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-02__11-59-15.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Shop Sidebar : 
+
+Categorie prodotto - Product categories - Widget already exists
+Filtra prodotti per attributo - Filter by - Widget already exists
+Filtra prodotti per prezzo - Filter by price - Widget already exists
+Filtra prodotti per attributo - Filter by - Widget already exists
+
+Article Sidebar : 
+
+The Issue - Posts - Popular Posts - Widget already exists
+The Issue - Sticky Separator - No Title - Widget already exists
+Immagine - No Title - Widget already exists
+
+Article Ajax Sidebar : 
+
+The Issue - Social Links - No Title - Widget already exists
+Immagine - No Title - Widget already exists
+The Issue - Sticky Separator - No Title - Widget already exists
+Immagine - No Title - Widget already exists
+
+Author Sidebar : 
+
+The Issue - Instagram - The Issue on Instagram - Widget already exists
+The Issue - Sticky Separator - No Title - Widget already exists
+Immagine - No Title - Widget already exists
+
+Archive Sidebar : 
+
+The Issue - Instagram - No Title - Widget already exists
+The Issue - Sticky Separator - No Title - Widget already exists
+Immagine - No Title - Widget already exists
+
+Category Sidebar : 
+
+The Issue - Sticky Separator - No Title - Widget already exists
+The Issue - Posts - FEATURED POSTS - Widget already exists
+
+Tag Sidebar : 
+
+The Issue - Authors - No Title - Widget already exists
+
+Search Sidebar : 
+
+Tag Cloud - Tags - Widget already exists
+
+Page Sidebar : 
+
+The Issue - Instagram - No Title - Widget already exists
+The Issue - Sticky Separator - No Title - Widget already exists
+Immagine - No Title - Widget already exists
+
+Mobile Menu Sidebar : 
+
+The Issue - Subscribe - Subscribe now to get notified about exclusive offers from The Issue every week! - Widget already exists
+
+Custom Widgets : 
+
+The Issue - About Me - About Me - Imported
+The Issue - Authors - Authors - Imported
+The Issue - Posts - Featured Posts - Imported
+The Issue - Posts - Popular Posts - Imported
+The Issue - Posts - Most Discussed - Imported
+The Issue - Instagram - Instagram - Imported
+The Issue - Instagram - Instagram - Imported
+The Issue - Top Reviews - Top Reviews - Imported
+The Issue - Top Categories - Top Categories - Imported
+The Issue - Twitter - Twitter - Imported
+The Issue - Video Posts - Videos - Imported
+The Issue - Social Links - Vertical Black - Imported
+The Issue - Social Links - Vertical Color - Imported
+The Issue - Social Links - Vertical Black with Border - Imported
+The Issue - Social Links - Vertical Color with Border - Imported
+The Issue - Social Links - Color Background - Imported
+The Issue - Social Links - Black within Circle - Imported
+The Issue - Social Links - Color within Circle - Imported
+The Issue - Social Links - Icons within Circle Color - Imported
+The Issue - Social Links - Horizontal Black - Imported
+The Issue - Social Links - Horizontal Color - Imported
+The Issue - Social Links - Horizontal Black with Border - Imported
+The Issue - Social Links - Horizontal Color with Border - Imported
+The Issue - Social Links - Horizontal Color Background - Imported
+The Issue - Social Links - Icons Black within Circle - Imported
+The Issue - Social Links - Icons Color within Circle - Imported
+The Issue - Social Links - Icons within Circle Color - Imported
+
+Home - 1 : 
+
+The Issue - About Me - About Me - Imported
+The Issue - Social Links - Subscribe &amp; Follow - Imported
+The Issue - Instagram - Instagram - Imported
+The Issue - Posts - Popular Posts - Imported
+The Issue - Sticky Separator - No Title - Imported
+The Issue - Twitter - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
